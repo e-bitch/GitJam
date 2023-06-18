@@ -1,0 +1,55 @@
+1 - tiger
+2 - eagle
+3 - deer
+4 - wolf
+5 - koala
+6 - panda
+7 - monkey
+8 - bunny
+9 - hyena
+10 - otter
+11 - polarbear
+12 - owl
+13 - rhino
+14 - llama
+15 - crocodile
+16 - elephant
+17 - lion
+18 - seal
+19 - N/A
+20 - N/A
+21 - N/A
+22 - N/A
+23 - horse
+24 - penguin
+25 - fox
+26 - girraffe
+27 - kangroo
+28 - Arctic Wolf
+29 - snow leopard
+30 - raccoon
+31- cheetah
+32 - lynx
+33 - arctic fox
+34 - goat
+35 - falcon
+36 - pig
+37 - sloth
+38 - lemur
+39 - toucan
+40 - sheep
+41 - cougar
+42 - coyote
+43 - flamingo
+44 - red panda
+45 - clydesdale 
+46 - sabertooth
+47 - direwolf
+48 - skunk
+49 - horned owl
+50 - fennec
+51 - camel
+52 - arabian horse
+53 - moose?
+
+Credits: ?
